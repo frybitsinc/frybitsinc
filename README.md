@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=frybitsinc)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frybitsinc&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frybitsinc&theme=nord_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frybitsinc&theme=nord_dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frybitsinc&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frybitsinc&theme=chartreuse_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=frybitsinc&theme=dark&date_format=%5BY.%5Dn.j&card_width=680&ring=00FF0D&border=FFFFFFC3&background=45%2C000000%2C000000&stroke=FFFFFF&fire=FF4C02&currStreakLabel=00FF06&dates=00FF0E)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frybitsinc&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frybitsinc&theme=chartreuse_dark)
