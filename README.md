@@ -1,6 +1,6 @@
 ### Hi. Hello. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=frybitsinc)
+[![wakatime](https://wakatime.com/badge/user/04b0e0a1-d1f4-4c5a-b2a5-6d81e862fe6d.svg)](https://wakatime.com/@04b0e0a1-d1f4-4c5a-b2a5-6d81e862fe6d)
 
 | <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frybitsinc&theme=chartreuse_dark"/> | <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frybitsinc&theme=chartreuse_dark"/> |
 |--|--|
