@@ -1,4 +1,5 @@
 ### Hi. Hello. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img align="right" width="42px" src="./hi.gif" />
 
 [![wakatime](https://wakatime.com/badge/user/04b0e0a1-d1f4-4c5a-b2a5-6d81e862fe6d.svg)](https://wakatime.com/@04b0e0a1-d1f4-4c5a-b2a5-6d81e862fe6d)
 
