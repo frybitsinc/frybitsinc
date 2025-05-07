@@ -1,4 +1,4 @@
-name: Metrics
+name: Indepth analysis
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -18,7 +18,6 @@ jobs:
         with:
           filename: metrics.plugin.followup.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
-          base: activity, repositories
+          base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
