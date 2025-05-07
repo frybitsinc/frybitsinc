@@ -18,6 +18,10 @@ jobs:
         with:
           filename: metrics.plugin.followup.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Seoul
           plugin_followup: yes
           plugin_followup_indepth: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
