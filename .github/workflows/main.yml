@@ -19,8 +19,6 @@ jobs:
           filename: metrics.plugin.followup.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          base: ""
+          base: activity, repositories
           plugin_followup: yes
           plugin_followup_indepth: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
