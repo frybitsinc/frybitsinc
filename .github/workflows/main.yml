@@ -1,4 +1,4 @@
-name: Indepth analysis
+name: Opened by user
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -16,8 +16,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.followup.indepth.svg
+          filename: metrics.plugin.followup.user.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
-          plugin_followup_indepth: yes
+          plugin_followup_sections: user
