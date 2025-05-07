@@ -23,4 +23,4 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_archived: yes
-          plugin_followup_sections: user
+          plugin_followup_sections: repositories
